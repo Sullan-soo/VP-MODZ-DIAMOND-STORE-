@@ -1,0 +1,1 @@
+Place your genuine UPI QR image in this folder and name it qr.png.
